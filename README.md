@@ -1,18 +1,26 @@
+
 # jaydip_whatsapp_ui
- 						
-# ScreenShots
 
-A new Flutter project.
+it is simple whatsapp clone .
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Mvc Pattern
+- Chat Screen
+- Call Screen
+- Status Screen
+- Light and Dark Themes
+
+
+
+
+
+
+## Screenshots
+
+![Group 1](https://github.com/jaydipsakhiya04/whatsapp-ui/assets/136619292/c1333e0b-fe7d-4ab1-852e-69be83e2e799)
+
+
