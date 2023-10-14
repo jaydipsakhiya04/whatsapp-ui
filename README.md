@@ -21,6 +21,7 @@ it is simple whatsapp clone .
 
 ## Screenshots
 
-![Group 1](https://github.com/jaydipsakhiya04/whatsapp-ui/assets/136619292/c1333e0b-fe7d-4ab1-852e-69be83e2e799)
+
+![wa2](https://github.com/jaydipsakhiya04/whatsapp-ui/assets/136619292/46be272f-2858-4644-b9e4-22de62317a04)
 
 
