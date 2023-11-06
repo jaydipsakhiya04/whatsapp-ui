@@ -6,7 +6,7 @@ it is simple whatsapp clone .
 
 
  
-## Features
+## Features 
 
 - Mvc Pattern
 - Chat Screen
