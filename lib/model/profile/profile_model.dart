@@ -4,3 +4,5 @@ class ProfileModel {
 
   ProfileModel({required this.userName, required this.mobileNumber});
 }
+
+class Call {}
